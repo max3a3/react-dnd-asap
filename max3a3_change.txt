@@ -1,0 +1,2 @@
+ change package.json to use browser version
+    "main": "dist/cjs/browser/index.js",
